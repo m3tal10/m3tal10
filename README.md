@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/m3talio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m3talio" height="30" width="40" /></a>
+<a href="https://twitter.com/m3talio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[m3talio](https://twitter.com/M3TALIO)" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mashrafie rahim sheikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mashrafie rahim sheikh" height="30" width="40" /></a>
 <a href="https://fb.com/mashrafie rahim sheikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mashrafie rahim sheikh" height="30" width="40" /></a>
 <a href="https://instagram.com/m3tal10__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m3tal10__" height="30" width="40" /></a>
