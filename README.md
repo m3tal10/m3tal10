@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/m3talio" target="blank"><img src="https://img.shields.io/twitter/follow/m3talio?logo=twitter&style=for-the-badge" alt="m3talio" /></a> </p>
 
 - 🌱 I’m currently experienced in **MERN stack**.
-- 
+
 - 👯 I’m looking to collaborate on **Software Development** with **Javascript** projects.
 
 - 📝 I regularly write articles on [https://binarybrew.blogspot.com/](https://binarybrew.blogspot.com/)
