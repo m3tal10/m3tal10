@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently experienced in **MERN stack**.
 
-- 👯 I’m looking to collaborate on **Software Development** with **Javascript** projects.
+- 👯 I’m looking to collaborate on **Software Development** with **Javascript**, and **Python** projects.
 
 - 📝 I regularly write articles on [https://binarybrew.blogspot.com/](https://binarybrew.blogspot.com/)
 
