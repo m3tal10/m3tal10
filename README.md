@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m3tal10" alt="m3tal10" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/m3talio" target="blank"><img src="https://img.shields.io/twitter/follow/m3talio?logo=twitter&style=for-the-badge" alt="m3talio" /></a> </p>
+<p align="left"> <a href="https://x.com/M3TAL100" target="blank"><img src="https://img.shields.io/twitter/follow/m3talio?logo=twitter&style=for-the-badge" alt="m3talio" /></a> </p>
 
 - 🌱 I’m experienced in **MERN stack**, and **Python**.
 
