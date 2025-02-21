@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://binarybrew.blogspot.com/](https://binarybrew.blogspot.com/)
 
-- 📫 How to reach me **rahimsheikh05@gmail.com**
+- 📫 How to reach me **rahimsheikh990@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
