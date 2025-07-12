@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://x.com/M3TAL100" target="blank"><img src="https://img.shields.io/twitter/follow/m3talio?logo=twitter&style=for-the-badge" alt="m3talio" /></a> </p>
 
-- 🌱 I’m experienced in **MERN stack**, and **Python**.
+- 🌱 I’m experienced in **Javascript**, and **Python**.
 
 - 👯 I’m looking to collaborate on **Software Development** with **Javascript**, and **Python** projects.
 
