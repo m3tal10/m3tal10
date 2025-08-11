@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Software Development** with **Javascript**, and **Python** projects.
 
-- 📝 I regularly write articles on [https://binarybrew.blogspot.com/](https://binarybrew.blogspot.com/)
-
 - 📫 How to reach me **rahimsheikh990@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
