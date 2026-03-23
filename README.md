@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://x.com/M3TAL100" target="blank"><img src="https://img.shields.io/twitter/follow/m3talio?logo=twitter&style=for-the-badge" alt="m3talio" /></a> </p>
 
-- 🌱 I’m experienced in **Javascript**, and **Python**.
+- 🌱 I’m a language and framework-agnostic developer, can work with any tech stack.
 
-- 👯 I’m looking to collaborate on **Software Development** with **Javascript**, and **Python** projects.
+- 👯 I’m looking to collaborate on **Software Development** projects.
 
-- 📫 How to reach me **rahimsheikh990@gmail.com**
+- 📫 How to reach me **dev.mashrafie@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
